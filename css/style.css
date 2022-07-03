@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,600&display=swap');
+/* selecting everything */
+* {
+ padding: 0;
+ margin: 0;
+ }
+ div{
+    background-color: blueviolet;
+    text-decoration: dashed;
+ }
+.body {
+ font-family: 'Open Sans', sans-serif, helvetica, Arial;
+ font-weight: 400;
+ font-size: 14px;
+ background-image:url(image/registration.jpg);  
+}
+.container {
+ max-width: 300px;
+ width: 70%;
+ margin: 0 auto;
+}
+
+
+fieldset {
+ border: medium none !important;
+ margin:  0 0 10px;
+ min-width: 100%;
+ width: 100%;
+}
+
+
+
+
+ 
+
+ 
